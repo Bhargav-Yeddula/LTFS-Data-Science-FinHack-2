@@ -1,4 +1,5 @@
 # LTFS-Data-Science-FinHack-2
+Used google colab environment
 
 Dataset split:
 1. In "FinHack_V1_Ada_Boost.ipynb" manually created validation set from train set

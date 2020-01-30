@@ -1,5 +1,9 @@
 # LTFS-Data-Science-FinHack-2
 
+Dataset split:
+1. Manually created validation set from train set by removing lastest dates from train set
+2. 
+
 Approach:
   1. Added holidays
   2. Added share prices of L&T Finance Holdings
